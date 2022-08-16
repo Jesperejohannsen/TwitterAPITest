@@ -2,10 +2,10 @@ import tweepy
 import time
 
 
-auth = tweepy.OAuth1UserHandler("6KThT36MhNbjNUt1EnrWCe6ko",
-                                "7mm2LjSY8KNThKMYmKjPGvDrvwipdlYHcYr729zNXBlwH6heXE",
-                                "1559433882717634560-4qkq9bLcStuGmSgXYFKLI1UsTtsFfz",
-                                "4yrgg0pyrqwU2q98bd30WyvkjxaE682cgaYW3lfyQin2s"
+auth = tweepy.OAuth1UserHandler("API Key here",
+                                "API Key Secret here",
+                                "Access Token here",
+                                "Access Token Secret here"
                                 )
 
 
